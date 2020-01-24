@@ -41,7 +41,7 @@ module.exports = {
   //Local de armazenamento das imagens.
   dest: path.resolve(__dirname, '..', '..', 'tmp', 'uploads'),
 
-  storage: storageTypes.s3,
+  storage: storageTypes[process.env.STORAGE_TYPE],
 
   //Configs de tamanho do arquivo, numero de arquivos e outros.
   limits: {
