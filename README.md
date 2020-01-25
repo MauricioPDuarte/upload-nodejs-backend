@@ -9,7 +9,7 @@
 <br>
 <br>
 
-## 📘 Construido com 
+## 📘 Construído com 
 
 * [Node.js](https://nodejs.org/en/) - Um interpretador JavaScript runtime construído sobre o Chrome's V8 JavaScript engine.
 * [ReactJs](https://pt-br.reactjs.org/) - Uma biblioteca JavaScript para criar interfaces de usuário
