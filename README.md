@@ -13,7 +13,6 @@
 
 * [Node.js](https://nodejs.org/en/) - Um interpretador JavaScript runtime construído sobre o Chrome's V8 JavaScript engine.
 * [ReactJs](https://pt-br.reactjs.org/) - Uma biblioteca JavaScript para criar interfaces de usuário
-* [React Native](https://facebook.github.io/react-native/) - Usada para desenvolver apps para Android e IOS de forma nativa.
 * [NPM](https://facebook.github.io/react-native/) - Gerenciador de pacotes do Node.js
 * [Yarn](https://facebook.github.io/react-native/) - Gerenciamento de dependência rápido, confiável e seguro.
 
