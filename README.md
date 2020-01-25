@@ -1,4 +1,4 @@
-<h1 align="center">Upload de imagens - Node.js e ReactJS</h1>
+<h1 align="center">📥 Upload de imagens - Node.js e ReactJS</h1>
 <p align="center">
   Upload de imagens utilizando Node.js e ReactJS, fornecido pela Rocketseat 🚀.
 </p>
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-## Construido com 
+## 📘 Construido com 
 
 * [Node.js](https://nodejs.org/en/) - Um interpretador JavaScript runtime construído sobre o Chrome's V8 JavaScript engine.
 * [ReactJs](https://pt-br.reactjs.org/) - Uma biblioteca JavaScript para criar interfaces de usuário
@@ -19,7 +19,7 @@
 
 <br>
 
-**Dependencies**
+**📦 Dependências**
 
 - Aws-sdk
 - Cors
@@ -30,29 +30,29 @@
 - Multer
 - Multer-s3
 
-**Dev dependencies**
+**📦 Dependências desenvolvedor**
 
 - Nodemon
 
-## Configuração
+## ⚙ Configuração
 
 > To get started...
 
-### Step 1
+### Etapa 1
 
-- **Option 1**
+- **Opção 1**
     ```shell
         $ git clone https://github.com/MauricioPDuarte/upload-nodejs-backend.git
         $ yarn install
      ```
 
-- **Option 2**
+- **Opção 2**
     ```shell
         $ git clone https://github.com/MauricioPDuarte/upload-nodejs-backend.git
         $ npm install
      ```
 
-### Step 2
+### Etapa 2
 
 - Crie um arquivo na pasta raiz do projeto com o nome `.env`.
 - Configure com seus dados, optando utilizar o armazenamento das imagens localmente ou na AWS S3.
@@ -67,7 +67,7 @@ AWS_ACCESS_KEY_ID=
 AWS_SECRET_ACCESS_KEY=
 AWS_DEFAULT_REGION=
 ```
-### Step 3
+### Etapa 3
 ```shell
 $ yarn dev
 ```
